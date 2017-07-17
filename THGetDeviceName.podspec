@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 
   s.homepage     = "https://github.com/hohua88/THGetDeviceName"
   s.license      = "MIT"
-  s.author             = { "hohua88" => "784550567@qq.com" }
+  s.author             = { "Joshua" => "784550567@qq.com" }
 
   s.social_media_url   = "https://github.com/hohua88"
 
